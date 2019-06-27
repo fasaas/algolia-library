@@ -57,5 +57,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "algoliasearch": "^3.33.0",
+    "react-instantsearch-dom": "^5.7.0"
+  }
 }
